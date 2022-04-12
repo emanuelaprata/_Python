@@ -37,5 +37,3 @@ def cadastro():
          if quantidadeAtual == quantidadeMin or quantidadeAtual < quantidadeMin+5:
              myTable.add_row([nome,quantidadeMin,quantidadeAtual])
 
-
-

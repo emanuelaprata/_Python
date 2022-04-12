@@ -1,7 +1,7 @@
 
 from importlib import import_module
 from re import A
-from pacotes.mod import *
+from modulo.mod import *
 
 #BoltDeMilhões
 nome = input("Bolt: Olá, qual o seu nome? \n User: ")

@@ -79,7 +79,7 @@
 #userN[input("Login: ")] = md5(input("Senha: ").encode("utf8")).hexdigest()
 #print(userN)
 
-from pacotes.modulo import *
+from login.modulo.modulo import *
 
 cadastro()
 

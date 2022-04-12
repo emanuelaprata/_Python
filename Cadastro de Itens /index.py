@@ -1,4 +1,4 @@
-from pacotes.modatv2 import *
+from modulo.mod import *
 
 
 ini = 's'
