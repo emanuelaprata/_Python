@@ -15,8 +15,6 @@ while ini == 's':
     elif ori == '03':
         print(myTable)
         ori = input("01. Cadastro de itens. \n02. Valor total em estoque. \n03. Mercadorias que precisam de reposição. \n04. Itens cadastrados \n User:")
-        print(produtos) 
-        ori = input("01. Cadastro de itens. \n02. Valor total em estoque. \n03. Mercadorias que precisam de reposição. \n04. Itens cadastrados \n User:")
     else:
         print("Reiniciando sistema.")    
         break
